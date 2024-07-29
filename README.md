@@ -275,7 +275,7 @@ This layout includes the updated icon for the Real-Time Sign Language Translatio
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
 
 
-## ![Sign Language Icon](https://camo.githubusercontent.com/64380fa3e73be78ec10bf234b0d08eb2d4e0880875616b9ad72d531fde44264f/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d666c61746172742d69636f6e732d6f75746c696e652d666c617461727469636f6e732f36342f3030303030302f65787465726e616c2d7369676e2d6c616e67756167652d646966666572656e742d67657374757265732d666c61746172742d69636f6e732d6f75746c696e652d666c617461727469636f6e732e706e67) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
+## ![Sign Language Icon](https://img.icons8.com/color/48/000000/sign-language.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
 
 
