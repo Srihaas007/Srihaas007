@@ -72,17 +72,17 @@ Conducted research on real-time sign language translation, utilizing transfer le
 
 ---
 
-## ![Australian Rain Prediction Icon](https://img.icons8.com/color/48/000000/rain.png) [Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australian-Rain-Prediction)
+## ![Australian Rain Prediction Icon](https://img.icons8.com/color/48/000000/rain.png) [Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australia-Rain-Prediction)
 Utilized machine learning techniques to improve prediction accuracy from 72% to 93% using hyperparameter tuning.
 
 ---
 
-## ![Cybersecurity Icon](https://img.icons8.com/dusk/64/000000/security.png) [Cybersecurity Project: Enhancing Security of Website](https://github.com/Srihaas007/Cybersecurity-Project)
+## ![Cybersecurity Icon](https://img.icons8.com/dusk/64/000000/security.png) [Cybersecurity Project: Enhancing Security of Website](https://github.com/Srihaas007/Web_Security)
 Comprehensive cybersecurity initiative aimed at enhancing the security posture of a website. Implemented various security measures and best practices to mitigate risks, safeguard sensitive data, and protect against cyber threats.
 
 ---
 
-## ![MAUI Task Management Icon](https://img.icons8.com/color/48/000000/task.png) [MAUI Task Management App](https://github.com/Srihaas007/MAUI-Task-Management-App)
+## ![MAUI Task Management Icon](https://img.icons8.com/color/48/000000/task.png) [MAUI Task Management App]([https://github.com/Srihaas007/Task_Manager_geo])
 Developed a task management application using .NET MAUI and SQL Lite3, incorporating geolocation-based notifications for efficient task prioritization.
 
 ---
