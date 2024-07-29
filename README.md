@@ -113,7 +113,7 @@ Developed an Android application for bill-splitting, benefiting over 500 users a
 ---
 
 
-## ![Rubik's Cube Icon](https://img.icons8.com/ios/50/000000/rubiks-cube.png) **Puzzle Solving Aficionado**
+## ![Rubik's Cube Icon][(https://img.icons8.com/ios/50/000000/rubiks-cube.png)](https://img.icons8.com/?size=100&id=YKvhQYogDwwX&format=png&color=000000) **Puzzle Solving Aficionado**
 Mastered solving Rubik's cubes, achieving times under 2 minutes.
 
 ---
