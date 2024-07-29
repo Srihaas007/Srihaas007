@@ -100,47 +100,47 @@ Cumulative Mark: 77.8%
 
 
 
-
 # Projects
 
 ---
 
-## BSL-ISL Transfer Learning
-![Learning Icon](https://img.icons8.com/ios-filled/50/000000/learning.png)
+## [BSL-ISL Transfer Learning](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
+![Learning Icon](https://img.icons8.com/dusk/64/000000/learning.png)
 Implemented a project on enhancing Indian Sign Language (ISL) recognition using transfer learning. Adapted a pre-trained model on British Sign Language (BSL) data to recognize ISL gestures, addressing the challenges of limited ISL datasets.
 
 ---
 
-## Real-Time Sign Language Translation Dissertation Project
-![Sign Language Icon](https://img.icons8.com/ios-filled/50/000000/sign-language.png)
+## [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
+![Sign Language Icon](https://img.icons8.com/dusk/64/000000/sign-language.png)
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
 
 ---
 
-## Data Exploration Project
-![Data Analysis Icon](https://img.icons8.com/ios-filled/50/000000/data.png)
+## [Data Exploration Project](https://github.com/Srihaas007/DataExploration)
+![Data Analysis Icon](https://img.icons8.com/dusk/64/000000/data.png)
 Developed a data exploration project aimed at handling large datasets efficiently. Implemented various methods to reduce processing time, created visualizations using MATLAB, and used automated tests to ensure workflow accuracy.
 
 ---
 
-## SharePay
-![Mobile Payment Icon](https://img.icons8.com/ios-filled/50/000000/mobile-payment.png)
+## [SharePay](https://github.com/Srihaas007/SharePay)
+![Mobile Payment Icon](https://img.icons8.com/dusk/64/000000/mobile-payment.png)
 Designed and implemented SharePay, an intuitive application for bill splitting among friends or flatmates. Utilized Java for development, integrated Google Firebase for secure user authentication, and crafted a user-friendly interface using Adobe XD and XML.
 
 ---
 
-## Restaurant Web App
-![Restaurant Icon](https://img.icons8.com/ios-filled/50/000000/restaurant.png)
+## [Restaurant Web App](https://github.com/Srihaas007/RestaurantWebApp)
+![Restaurant Icon](https://img.icons8.com/dusk/64/000000/restaurant.png)
 Created a comprehensive restaurant web application with functionalities for managing menus, online orders, and reservations. Employed HTML, CSS, JavaScript, and PHP for the development, ensuring a seamless user experience.
 
 ---
 
-## WhatsApp Food Bot
-![Chatbot Icon](https://img.icons8.com/ios-filled/50/000000/chatbot.png)
+## [WhatsApp Food Bot](https://github.com/Srihaas007/WhatsApp-Food-BOT)
+![Chatbot Icon](https://img.icons8.com/dusk/64/000000/chatbot.png)
 Developed a Python-based chatbot for food ordering via WhatsApp. The bot leverages natural language processing to interact with users and supports location-based order delivery. Enhanced user engagement and streamlined the ordering process.
 
 ---
 
-## StrongBoxx
-![Security Icon](https://img.icons8.com/ios-filled/50/000000/security-shield.png)
+## [StrongBoxx](https://github.com/Srihaas007/StrongBoxx)
+![Security Icon](https://img.icons8.com/dusk/64/000000/security.png)
 Built an escrow service application to facilitate secure transactions between customers and merchants, enhancing trust and transaction security. Implemented the solution using PHP and integrated with various payment gateways.
+
