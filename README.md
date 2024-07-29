@@ -113,16 +113,21 @@ Developed an Android application for bill-splitting, benefiting over 500 users a
 ---
 
 
-## ![Rubik's Cube Icon](https://img.icons8.com/ios/50/000000/rubiks-cube.png)**Puzzle Solving Aficionado**
+Certainly! Let’s use the direct image URLs you provided to ensure visibility:
+
+---
+
+## ![Rubik's Cube Icon](https://img.icons8.com/ios/50/000000/rubiks-cube.png) **Puzzle Solving Aficionado**  
 Mastered solving Rubik's cubes, achieving times under 2 minutes.
 
 ---
 
-## ![Molecule Icon](https://img.icons8.com/ios/50/000000/molecule.png) **Royal Australian Chemistry Quiz**
+## ![Molecule Icon](https://img.icons8.com/ios/50/000000/molecule.png) **Royal Australian Chemistry Quiz**  
 Achieved distinction, placing in the top 10% of participants.
 
 ---
 
+If the icons still don’t show, you might want to double-check the URLs or consider alternative icon sources. Let me know if there's anything else you need!
 
 ## ![Music Icon](https://img.icons8.com/color/48/000000/music.png) **Electronic Music Creation**
 Produced music that garnered over 1,000 online plays.
