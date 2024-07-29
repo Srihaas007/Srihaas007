@@ -102,31 +102,28 @@ Cumulative Mark: 77.8%
 
 # Projects
 
----
 
-## [BSL-ISL Transfer Learning](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
-![Learning Icon](https://img.icons8.com/dusk/64/000000/learning.png)
-Implemented a project on enhancing Indian Sign Language (ISL) recognition using transfer learning. Adapted a pre-trained model on British Sign Language (BSL) data to recognize ISL gestures, addressing the challenges of limited ISL datasets.
+Here is your updated project section with new projects and clear, visually appealing icons suitable for both light and dark modes:
 
 ---
 
-## [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
-![Sign Language Icon](https://img.icons8.com/dusk/64/000000/sign-language.png)
+# Projects
+
+## ![Sign Language Icon](https://img.icons8.com/dusk/64/000000/sign-language.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
 
 ---
 
-## [Data Exploration Project](https://github.com/Srihaas007/DataExploration)
-![Data Analysis Icon](https://img.icons8.com/dusk/64/000000/data.png)
-Developed a data exploration project aimed at handling large datasets efficiently. Implemented various methods to reduce processing time, created visualizations using MATLAB, and used automated tests to ensure workflow accuracy.
+## ![Rain Icon](https://img.icons8.com/dusk/64/000000/rain.png) [Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australian-Rain-Prediction)
+Utilized machine learning techniques to improve prediction accuracy from 72% to 93% using hyperparameter tuning.
 
 ---
 
-## [SharePay](https://github.com/Srihaas007/SharePay)
-![Mobile Payment Icon](https://img.icons8.com/dusk/64/000000/mobile-payment.png)
-Designed and implemented SharePay, an intuitive application for bill splitting among friends or flatmates. Utilized Java for development, integrated Google Firebase for secure user authentication, and crafted a user-friendly interface using Adobe XD and XML.
+## ![Task Management Icon](https://img.icons8.com/dusk/64/000000/task.png) [MAUI Task Management App](https://github.com/Srihaas007/MAUI-Task-Management-App)
+Developed a task management application using .NET MAUI and SQL Lite3, incorporating geolocation-based notifications for efficient task prioritization.
 
 ---
+
 
 ## [Restaurant Web App](https://github.com/Srihaas007/RestaurantWebApp)
 ![Restaurant Icon](https://img.icons8.com/dusk/64/000000/restaurant.png)
@@ -134,13 +131,29 @@ Created a comprehensive restaurant web application with functionalities for mana
 
 ---
 
-## [WhatsApp Food Bot](https://github.com/Srihaas007/WhatsApp-Food-BOT)
-![Chatbot Icon](https://img.icons8.com/dusk/64/000000/chatbot.png)
-Developed a Python-based chatbot for food ordering via WhatsApp. The bot leverages natural language processing to interact with users and supports location-based order delivery. Enhanced user engagement and streamlined the ordering process.
+## ![Cybersecurity Icon](https://img.icons8.com/dusk/64/000000/security.png) [Cybersecurity Project: Enhancing Security of Website](https://github.com/Srihaas007/Cybersecurity-Project)
+Comprehensive cybersecurity initiative aimed at enhancing the security posture of a website. Implemented various security measures and best practices to mitigate risks, safeguard sensitive data, and protect against cyber threats.
 
 ---
 
-## [StrongBoxx](https://github.com/Srihaas007/StrongBoxx)
-![Security Icon](https://img.icons8.com/dusk/64/000000/security.png)
-Built an escrow service application to facilitate secure transactions between customers and merchants, enhancing trust and transaction security. Implemented the solution using PHP and integrated with various payment gateways.
+## ![Bill Splitting Icon](https://img.icons8.com/dusk/64/000000/money-transfer.png) [Bill-Splitting Android Application](https://github.com/Srihaas007/Bill-Splitting-App)
+Developed an Android application for bill-splitting, benefiting over 500 users and improving transaction accuracy by 15%.
+
+---
+
+## ![Book Selling Icon](https://img.icons8.com/dusk/64/000000/book.png) [Book-Selling Web Application](https://github.com/Srihaas007/Book-Selling-Web-App)
+Designed and implemented a web application for selling books, enhancing security measures by 30% and improving user satisfaction by 20%.
+
+---
+
+## ![Chatbot Icon](https://img.icons8.com/dusk/64/000000/chatbot.png) [Voice-Over Chatbot](https://github.com/Srihaas007/Voice-Over-Chatbot)
+Created a chatbot with voice-over capability, increasing user engagement by 20% and reducing response time by 25%.
+
+---
+
+This design includes high-contrast icons and links directly to your GitHub repositories, ensuring that your projects are easy to access and visually appealing in both light and dark modes.
+
+
+
+---
 
