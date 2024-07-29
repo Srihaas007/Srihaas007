@@ -277,5 +277,7 @@ Conducted research on real-time sign language translation, utilizing transfer le
 
 ## ![Sign Language Icon](https://img.icons8.com/color/48/000000/sign-language.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
+## ![Sign Language Icon](https://img.icons8.com/ios/50/000000/sign-language.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
+Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
 
 
