@@ -113,12 +113,12 @@ Developed an Android application for bill-splitting, benefiting over 500 users a
 ---
 
 
-## ![Puzzle Icon](https://img.icons8.com/external-flat-juicy-fish/64/external-puzzle-puzzle-flat-flat-juicy-fish.png) **Puzzle Solving Aficionado**
+## ![Rubik's Cube Icon](https://img.icons8.com/ios/50/000000/rubiks-cube.png) **Puzzle Solving Aficionado**
 Mastered solving Rubik's cubes, achieving times under 2 minutes.
 
 ---
 
-## ![Achievement Icon](https://img.icons8.com/external-flat-juicy-fish/64/external-award-achievement-flat-flat-juicy-fish.png) **Royal Australian Chemistry Quiz**
+## ![Molecule Icon](https://img.icons8.com/ios/50/000000/molecule.png) **Royal Australian Chemistry Quiz**
 Achieved distinction, placing in the top 10% of participants.
 
 ---
