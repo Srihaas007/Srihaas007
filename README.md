@@ -106,21 +106,10 @@ Cumulative Mark: 77.8%
 
 
 
-## ![Sign Language Icon](https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-sign-language-different-gestures-flatart-icons-outline-flatarticons.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
-Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
-
----
 
 
-## ![Rain Icon](https://img.icons8.com/dusk/64/000000/rain.png) [Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australian-Rain-Prediction)
-Utilized machine learning techniques to improve prediction accuracy from 72% to 93% using hyperparameter tuning.
 
----
 
-## ![Task Management Icon](https://img.icons8.com/dusk/64/000000/task.png) [MAUI Task Management App](https://github.com/Srihaas007/MAUI-Task-Management-App)
-Developed a task management application using .NET MAUI and SQL Lite3, incorporating geolocation-based notifications for efficient task prioritization.
-
----
 
 
 ## [Restaurant Web App](https://github.com/Srihaas007/RestaurantWebApp)
@@ -134,39 +123,9 @@ Comprehensive cybersecurity initiative aimed at enhancing the security posture o
 
 ---
 
-## ![Bill Splitting Icon](https://img.icons8.com/dusk/64/000000/money-transfer.png) [Bill-Splitting Android Application](https://github.com/Srihaas007/Bill-Splitting-App)
-Developed an Android application for bill-splitting, benefiting over 500 users and improving transaction accuracy by 15%.
-
----
-
-## ![Book Selling Icon](https://img.icons8.com/dusk/64/000000/book.png) [Book-Selling Web Application](https://github.com/Srihaas007/Book-Selling-Web-App)
-Designed and implemented a web application for selling books, enhancing security measures by 30% and improving user satisfaction by 20%.
-
----
 
 
-## ![Chatbot Icon](https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-chatbot-robotics-wanicon-flat-wanicon.png) [Voice-Over Chatbot](https://github.com/Srihaas007/Voice-Over-Chatbot)
-Created a chatbot with voice-over capability, increasing user engagement by 20% and reducing response time by 25%.
 
----
-
-
-Here is the updated projects section with icons that should be clearly visible in both light and dark modes on GitHub:
-
----
-Here is the updated projects section with appropriate icons for the real-time translation and chatbot projects:
-
----
-
-# Projects
-
----
-
-## [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
-![Sign Language Icon](https://img.icons8.com/color/48/000000/deaf-guy.png)
-Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
-
----
 
 ## [Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australian-Rain-Prediction)
 ![Rain Icon](https://img.icons8.com/color/48/000000/rain.png)
@@ -180,17 +139,7 @@ Developed a task management application using .NET MAUI and SQL Lite3, incorpora
 
 ---
 
-## [Restaurant Web App](https://github.com/Srihaas007/RestaurantWebApp)
-![Restaurant Icon](https://img.icons8.com/color/48/000000/restaurant.png)
-Created a comprehensive restaurant web application with functionalities for managing menus, online orders, and reservations. Employed HTML, CSS, JavaScript, and PHP for the development, ensuring a seamless user experience.
 
----
-
-## [Cybersecurity Project: Enhancing Security of Website](https://github.com/Srihaas007/Cybersecurity-Project)
-![Cybersecurity Icon](https://img.icons8.com/color/48/000000/security.png)
-Comprehensive cybersecurity initiative aimed at enhancing the security posture of a website. Implemented various security measures and best practices to mitigate risks, safeguard sensitive data, and protect against cyber threats.
-
----
 
 ## [Bill-Splitting Android Application](https://github.com/Srihaas007/Bill-Splitting-App)
 ![Bill Splitting Icon](https://img.icons8.com/color/48/000000/money-transfer.png)
@@ -210,75 +159,6 @@ Created a chatbot with voice-over capability, increasing user engagement by 20% 
 
 ---
 
-This layout includes the updated icons to match the projects and ensures visibility and accessibility for both light and dark modes.
-
-
-Here is the updated project section with a new icon for the Real-Time Sign Language Translation Dissertation Project:
-
----
-
-# Projects
-
----
-
-## [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
-![Sign Language Icon](https://img.icons8.com/ios-filled/50/000000/translation.png)
-Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
-
----
-
-## [Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australian-Rain-Prediction)
-![Rain Icon](https://img.icons8.com/color/48/000000/rain.png)
-Utilized machine learning techniques to improve prediction accuracy from 72% to 93% using hyperparameter tuning.
-
----
-
-## [MAUI Task Management App](https://github.com/Srihaas007/MAUI-Task-Management-App)
-![Task Management Icon](https://img.icons8.com/color/48/000000/task.png)
-Developed a task management application using .NET MAUI and SQL Lite3, incorporating geolocation-based notifications for efficient task prioritization.
-
----
-
-## [Restaurant Web App](https://github.com/Srihaas007/RestaurantWebApp)
-![Restaurant Icon](https://img.icons8.com/color/48/000000/restaurant.png)
-Created a comprehensive restaurant web application with functionalities for managing menus, online orders, and reservations. Employed HTML, CSS, JavaScript, and PHP for the development, ensuring a seamless user experience.
-
----
-
-## [Cybersecurity Project: Enhancing Security of Website](https://github.com/Srihaas007/Cybersecurity-Project)
-![Cybersecurity Icon](https://img.icons8.com/color/48/000000/security.png)
-Comprehensive cybersecurity initiative aimed at enhancing the security posture of a website. Implemented various security measures and best practices to mitigate risks, safeguard sensitive data, and protect against cyber threats.
-
----
-
-## [Bill-Splitting Android Application](https://github.com/Srihaas007/Bill-Splitting-App)
-![Bill Splitting Icon](https://img.icons8.com/color/48/000000/money-transfer.png)
-Developed an Android application for bill-splitting, benefiting over 500 users and improving transaction accuracy by 15%.
-
----
-
-## [Book-Selling Web Application](https://github.com/Srihaas007/Book-Selling-Web-App)
-![Book Selling Icon](https://img.icons8.com/color/48/000000/book.png)
-Designed and implemented a web application for selling books, enhancing security measures by 30% and improving user satisfaction by 20%.
-
----
-
-## [Voice-Over Chatbot](https://github.com/Srihaas007/Voice-Over-Chatbot)
-![Chatbot Icon](https://img.icons8.com/color/48/000000/bot.png)
-Created a chatbot with voice-over capability, increasing user engagement by 20% and reducing response time by 25%.
-
----
-
-This layout includes the updated icon for the Real-Time Sign Language Translation Dissertation Project and ensures visibility and accessibility for both light and dark modes.
-
-## ![Sign Language Icon](https://img.icons8.com/ios-filled/50/000000/translation.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
-Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
-
-
-## ![Sign Language Icon](https://img.icons8.com/color/48/000000/sign-language.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
-Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
-## ![Sign Language Icon](https://img.icons8.com/ios/50/000000/sign-language.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
-Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
 
 ## ![Sign Language Icon](https://img.icons8.com/?size=100&id=khusro6QR49j&format=png&color=000000) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
