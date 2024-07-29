@@ -106,7 +106,7 @@ Cumulative Mark: 77.8%
 
 
 
-## ![Sign Language Icon](https://img.icons8.com/color/48/000000/sign-language.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
+## ![Sign Language Icon](https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-sign-language-different-gestures-flatart-icons-outline-flatarticons.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
 
 ---
@@ -144,7 +144,8 @@ Designed and implemented a web application for selling books, enhancing security
 
 ---
 
-## ![Chatbot Icon](https://img.icons8.com/color/48/000000/chatbot.png) [Voice-Over Chatbot](https://github.com/Srihaas007/Voice-Over-Chatbot)
+
+## ![Chatbot Icon](https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-chatbot-robotics-wanicon-flat-wanicon.png) [Voice-Over Chatbot](https://github.com/Srihaas007/Voice-Over-Chatbot)
 Created a chatbot with voice-over capability, increasing user engagement by 20% and reducing response time by 25%.
 
 ---
