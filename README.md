@@ -112,15 +112,17 @@ Developed an Android application for bill-splitting, benefiting over 500 users a
 
 ---
 
-## ![Puzzle Solving Icon](https://img.icons8.com/external-flaticons-lineal-color-flat-flaticons/64/external-puzzle-puzzle-flaticons-lineal-color-flat-flaticons.png) **Puzzle Solving Aficionado**
+
+## ![Puzzle Icon](https://img.icons8.com/external-flat-juicy-fish/64/external-puzzle-puzzle-flat-flat-juicy-fish.png) **Puzzle Solving Aficionado**
 Mastered solving Rubik's cubes, achieving times under 2 minutes.
 
 ---
 
-## ![Chemistry Icon](https://img.icons8.com/color/48/000000/chemistry.png) **Royal Australian Chemistry Quiz**
+## ![Achievement Icon](https://img.icons8.com/external-flat-juicy-fish/64/external-award-achievement-flat-flat-juicy-fish.png) **Royal Australian Chemistry Quiz**
 Achieved distinction, placing in the top 10% of participants.
 
 ---
+
 
 ## ![Music Icon](https://img.icons8.com/color/48/000000/music.png) **Electronic Music Creation**
 Produced music that garnered over 1,000 online plays.
