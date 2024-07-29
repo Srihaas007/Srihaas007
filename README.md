@@ -82,17 +82,17 @@ Comprehensive cybersecurity initiative aimed at enhancing the security posture o
 
 ---
 
-## ![MAUI Task Management Icon](https://img.icons8.com/color/48/000000/task.png) [MAUI Task Management App]([https://github.com/Srihaas007/Task_Manager_geo])
+## ![MAUI Task Management Icon](https://img.icons8.com/color/48/000000/task.png) [MAUI Task Management App](https://github.com/Srihaas007/Task_Manager_geo)
 Developed a task management application using .NET MAUI and SQL Lite3, incorporating geolocation-based notifications for efficient task prioritization.
 
 ---
 
-## ![Voice-Over Chatbot Icon](https://img.icons8.com/color/48/000000/bot.png) [Voice-Over Chatbot](https://github.com/Srihaas007/Voice-Over-Chatbot)
+## ![Voice-Over Chatbot Icon](https://img.icons8.com/color/48/000000/bot.png) [Voice-Over Chatbot](https://github.com/Srihaas007/ChatBot)
 Created a chatbot with voice-over capability, increasing user engagement by 20% and reducing response time by 25%.
 
 ---
 
-## ![Book Selling Icon](https://img.icons8.com/color/48/000000/book.png) [Book-Selling Web Application](https://github.com/Srihaas007/Book-Selling-Web-App)
+## ![Book Selling Icon](https://img.icons8.com/color/48/000000/book.png) [Book-Selling Web Application](https://github.com/Srihaas007/BookShop)
 Designed and implemented a web application for selling books, enhancing security measures by 30% and improving user satisfaction by 20%.
 
 ---
@@ -102,7 +102,7 @@ Created a comprehensive restaurant web application with functionalities for mana
 
 ---
 
-## ![Bill Splitting Icon](https://img.icons8.com/color/48/000000/money-transfer.png) [Bill-Splitting Android Application](https://github.com/Srihaas007/Bill-Splitting-App)
+## ![Bill Splitting Icon](https://img.icons8.com/color/48/000000/money-transfer.png) [Bill-Splitting Android Application](https://github.com/Srihaas007/SharePay)
 Developed an Android application for bill-splitting, benefiting over 500 users and improving transaction accuracy by 15%.
 
 ---
