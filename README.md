@@ -102,9 +102,8 @@ Cumulative Mark: 77.8%
 
 ---
 
-## ![Sign Language Icon](https://img.icons8.com/?size=100&id=EEbz3WtwbU4U&format=png&color=000000](https://img.icons8.com/?size=100&id=EYPGefvaMGEC&format=png&color=000000) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
+## ![Sign Language Icon](https://img.icons8.com/?size=100&id=EYPGefvaMGEC&format=png&color=000000) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
-
 
 ## ![Australian Rain Prediction Icon](https://img.icons8.com/color/48/000000/rain.png) [Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australian-Rain-Prediction)
 Utilized machine learning techniques to improve prediction accuracy from 72% to 93% using hyperparameter tuning.
