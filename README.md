@@ -270,3 +270,7 @@ Created a chatbot with voice-over capability, increasing user engagement by 20% 
 ---
 
 This layout includes the updated icon for the Real-Time Sign Language Translation Dissertation Project and ensures visibility and accessibility for both light and dark modes.
+
+## ![Sign Language Icon](https://img.icons8.com/ios-filled/50/000000/translation.png) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
+Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
+
