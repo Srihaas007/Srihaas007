@@ -112,28 +112,16 @@ Developed an Android application for bill-splitting, benefiting over 500 users a
 
 ---
 
-
-Certainly! Let’s use the direct image URLs you provided to ensure visibility:
-
----
-
-It looks like using direct links to icons from Icons8 might not be displaying correctly. Let's use another approach to ensure visibility. I’ll use some alternative icon sources with similar themes that should work.
-
----
-
-## ![Rubik's Cube Icon](https://img.icons8.com/ios/50/000000/rubiks-cube.png) **Puzzle Solving Aficionado**  
+## ![Rubik's Cube Icon](https://img.icons8.com/?size=100&id=36760&format=png&color=000000) **Puzzle Solving Aficionado**
 Mastered solving Rubik's cubes, achieving times under 2 minutes.
 
 ---
 
-## ![Molecule Icon](https://img.icons8.com/ios/50/000000/molecule.png) **Royal Australian Chemistry Quiz**  
+## ![Molecule Icon](https://img.icons8.com/?size=100&id=53653&format=png&color=000000) **Royal Australian Chemistry Quiz**
 Achieved distinction, placing in the top 10% of participants.
 
 ---
 
-If these do not work, try verifying the image URLs or using another image hosting service. If you need more assistance, feel free to let me know!
-
-If the icons still don’t show, you might want to double-check the URLs or consider alternative icon sources. Let me know if there's anything else you need!
 
 ## ![Music Icon](https://img.icons8.com/color/48/000000/music.png) **Electronic Music Creation**
 Produced music that garnered over 1,000 online plays.
