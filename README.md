@@ -154,13 +154,16 @@ Created a chatbot with voice-over capability, increasing user engagement by 20% 
 Here is the updated projects section with icons that should be clearly visible in both light and dark modes on GitHub:
 
 ---
+Here is the updated projects section with appropriate icons for the real-time translation and chatbot projects:
+
+---
 
 # Projects
 
 ---
 
 ## [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
-![Sign Language Icon](https://img.icons8.com/color/48/000000/sign-language.png)
+![Sign Language Icon](https://img.icons8.com/color/48/000000/deaf-guy.png)
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
 
 ---
@@ -202,9 +205,9 @@ Designed and implemented a web application for selling books, enhancing security
 ---
 
 ## [Voice-Over Chatbot](https://github.com/Srihaas007/Voice-Over-Chatbot)
-![Chatbot Icon](https://img.icons8.com/color/48/000000/chatbot.png)
+![Chatbot Icon](https://img.icons8.com/color/48/000000/bot.png)
 Created a chatbot with voice-over capability, increasing user engagement by 20% and reducing response time by 25%.
 
 ---
 
-This layout includes links directly to your GitHub repositories, ensuring visibility and accessibility for both light and dark modes.
+This layout includes the updated icons to match the projects and ensures visibility and accessibility for both light and dark modes.
