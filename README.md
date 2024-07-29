@@ -67,43 +67,10 @@ Cumulative Mark: 77.8%
 
 ## Projects
 
-### Real-Time Sign Language Translation Dissertation Project
-- Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
-
-### Australian Rain Prediction ML Project
-- Utilized machine learning techniques to improve prediction accuracy from 72% to 93% using hyperparameter tuning.
-
-### MAUI Task Management App
-- Developed a task management application using .NET MAUI and SQL Lite3, incorporating geolocation-based notifications for efficient task prioritization.
-
-### Bill-Splitting Android Application
-- Developed an Android application for bill-splitting, benefiting over 500 users and improving transaction accuracy by 15%.
-
-### Cybersecurity Project: Enhancing Security of Website
-- Comprehensive cybersecurity initiative aimed at enhancing the security posture of a website. Implemented various security measures and best practices to mitigate risks, safeguard sensitive data, and protect against cyber threats.
-
-### Book-Selling Web Application
-- Designed and implemented a web application for selling books, enhancing security measures by 30% and improving user satisfaction by 20%.
-
-### Voice-Over Chatbot
-- Created a chatbot with voice-over capability, increasing user engagement by 20% and reducing response time by 25%.
-
----
-
-## Interests and Achievements
-
-- **Royal Australian Chemistry Quiz**: Achieved distinction, placing in the top 10% of participants.
-- **Electronic Music Creation**: Produced music that garnered over 1,000 online plays.
-- **Puzzle Solving Aficionado**: Mastered solving Rubik's cubes, achieving times under 2 minutes.
-- **Culinary Hobbyist**: Passionately experimented with over 100 diverse recipes, exploring a variety of global cuisines.
-
-
-
-
----
-
 ## ![Sign Language Icon](https://img.icons8.com/?size=100&id=EYPGefvaMGEC&format=png&color=000000) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
+
+---
 
 ## ![Australian Rain Prediction Icon](https://img.icons8.com/color/48/000000/rain.png) [Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australian-Rain-Prediction)
 Utilized machine learning techniques to improve prediction accuracy from 72% to 93% using hyperparameter tuning.
@@ -140,4 +107,19 @@ Developed an Android application for bill-splitting, benefiting over 500 users a
 
 ---
 
-Feel free to adjust the order or make any additional tweaks!
+---
+
+## Interests and Achievements
+
+- **Royal Australian Chemistry Quiz**: Achieved distinction, placing in the top 10% of participants.
+- **Electronic Music Creation**: Produced music that garnered over 1,000 online plays.
+- **Puzzle Solving Aficionado**: Mastered solving Rubik's cubes, achieving times under 2 minutes.
+- **Culinary Hobbyist**: Passionately experimented with over 100 diverse recipes, exploring a variety of global cuisines.
+
+
+
+
+
+
+
+
