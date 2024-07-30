@@ -67,42 +67,50 @@ Cumulative Mark: 77.8%
 
 ## Projects
 
-## ![Sign Language Icon](https://img.icons8.com/?size=100&id=EYPGefvaMGEC&format=png&color=000000) [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
+## ![Sign Language Icon](https://img.icons8.com/?size=100&id=EYPGefvaMGEC&format=png&color=000000) 
+[Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
 Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
 
 ---
 
-## ![Australian Rain Prediction Icon](https://img.icons8.com/color/48/000000/rain.png) [Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australia-Rain-Prediction)
+## ![Australian Rain Prediction Icon](https://img.icons8.com/color/48/000000/rain.png) 
+[Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australia-Rain-Prediction)
 Utilized machine learning techniques to improve prediction accuracy from 72% to 93% using hyperparameter tuning.
 
 ---
 
-## ![Cybersecurity Icon](https://img.icons8.com/dusk/64/000000/security.png) [Cybersecurity Project: Enhancing Security of Website](https://github.com/Srihaas007/Web_Security)
+## ![Cybersecurity Icon](https://img.icons8.com/dusk/64/000000/security.png) 
+[Cybersecurity Project: Enhancing Security of Website](https://github.com/Srihaas007/Web_Security)
 Comprehensive cybersecurity initiative aimed at enhancing the security posture of a website. Implemented various security measures and best practices to mitigate risks, safeguard sensitive data, and protect against cyber threats.
 
 ---
 
-## ![MAUI Task Management Icon](https://img.icons8.com/color/48/000000/task.png) [MAUI Task Management App](https://github.com/Srihaas007/Task_Manager_geo)
+## ![MAUI Task Management Icon](https://img.icons8.com/color/48/000000/task.png) 
+[MAUI Task Management App](https://github.com/Srihaas007/Task_Manager_geo)
 Developed a task management application using .NET MAUI and SQL Lite3, incorporating geolocation-based notifications for efficient task prioritization.
 
 ---
 
-## ![Voice-Over Chatbot Icon](https://img.icons8.com/color/48/000000/bot.png) [Voice-Over Chatbot](https://github.com/Srihaas007/ChatBot)
+## ![Voice-Over Chatbot Icon](https://img.icons8.com/color/48/000000/bot.png) 
+[Voice-Over Chatbot](https://github.com/Srihaas007/ChatBot)
 Created a chatbot with voice-over capability, increasing user engagement by 20% and reducing response time by 25%.
 
 ---
 
-## ![Book Selling Icon](https://img.icons8.com/color/48/000000/book.png) [Book-Selling Web Application](https://github.com/Srihaas007/BookShop)
+## ![Book Selling Icon](https://img.icons8.com/color/48/000000/book.png) 
+[Book-Selling Web Application](https://github.com/Srihaas007/BookShop)
 Designed and implemented a web application for selling books, enhancing security measures by 30% and improving user satisfaction by 20%.
 
 ---
 
-## ![Restaurant Icon](https://img.icons8.com/dusk/64/000000/restaurant.png) [Restaurant Web App](https://github.com/Srihaas007/RestaurantWebApp)
+## ![Restaurant Icon](https://img.icons8.com/dusk/64/000000/restaurant.png)
+[Restaurant Web App](https://github.com/Srihaas007/RestaurantWebApp)
 Created a comprehensive restaurant web application with functionalities for managing menus, online orders, and reservations. Employed HTML, CSS, JavaScript, and PHP for the development, ensuring a seamless user experience.
 
 ---
 
-## ![Bill Splitting Icon](https://img.icons8.com/color/48/000000/money-transfer.png) [Bill-Splitting Android Application](https://github.com/Srihaas007/SharePay)
+## ![Bill Splitting Icon](https://img.icons8.com/color/48/000000/money-transfer.png) 
+[Bill-Splitting Android Application](https://github.com/Srihaas007/SharePay)
 Developed an Android application for bill-splitting, benefiting over 500 users and improving transaction accuracy by 15%.
 
 ---
@@ -112,7 +120,8 @@ Developed an Android application for bill-splitting, benefiting over 500 users a
 
 ---
 
-## ![Rubik's Cube Icon](https://img.icons8.com/?size=100&id=WNaJOLOosfav&format=png&color=000000) **Puzzle Solving Aficionado**
+## ![Rubik's Cube Icon](https://img.icons8.com/?size=100&id=WNaJOLOosfav&format=png&color=000000) 
+**Puzzle Solving Aficionado**
 Mastered solving Rubik's cubes, achieving times under 2 minutes.
 
 ---
@@ -124,12 +133,14 @@ Achieved distinction, placing in the top 10% of participants.
 ---
 
 
-## ![Music Icon](https://img.icons8.com/color/48/000000/music.png) **Electronic Music Creation**
+## ![Music Icon](https://img.icons8.com/color/48/000000/music.png) 
+**Electronic Music Creation**
 Produced music that garnered over 1,000 online plays.
 
 ---
 
-## ![Cooking Icon](https://img.icons8.com/color/48/000000/chef-hat.png) **Culinary Hobbyist**
+## ![Cooking Icon](https://img.icons8.com/color/48/000000/chef-hat.png) 
+**Culinary Hobbyist**
 Passionately experimented with over 100 diverse recipes, exploring a variety of global cuisines.
 
 ---
