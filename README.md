@@ -92,7 +92,7 @@ Developed a task management application using .NET MAUI and SQL Lite3, incorpora
 ---
 
 ## ![Voice-Over Chatbot Icon](https://img.icons8.com/color/48/000000/bot.png) 
-##[Voice-Over Chatbot](https://github.com/Srihaas007/ChatBot)
+## [Voice-Over Chatbot](https://github.com/Srihaas007/ChatBot)
 Created a chatbot with voice-over capability, increasing user engagement by 20% and reducing response time by 25%.
 
 ---
