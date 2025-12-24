@@ -19,9 +19,6 @@ Experienced **Full Stack Developer** with over 2 years in web and mobile app dev
 
 ---
 
-## 📊 GitHub Statistics & Activity
-
-<div align="center">
 
 ## GitHub Statistics and Activity
 
@@ -42,14 +39,8 @@ Experienced **Full Stack Developer** with over 2 years in web and mobile app dev
 ### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Srihaas007&row=1&column=7&no-frame=true)
 
-
-### 📊 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srihaas007&theme=tokyo-night&hide_border=true&area=true)
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Srihaas007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
 </div>
+
 
 ---
 
