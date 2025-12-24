@@ -23,21 +23,8 @@ Experienced **Full Stack Developer** with over 2 years in web and mobile app dev
 ## GitHub Statistics and Activity
 
 <div align="center">
-
-### Overall GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srihaas007&show_icons=true&count_private=true&include_all_commits=true)
-
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Srihaas007)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srihaas007&layout=compact&langs_count=8)
-
 ### Contribution Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srihaas007&hide_border=true)
-
-### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Srihaas007&row=1&column=7&no-frame=true)
 
 </div>
 
