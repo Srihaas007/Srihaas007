@@ -1,149 +1,334 @@
-# Srihaas Gorantla
+# 👋 Hi, I'm Srihaas Gorantla
 
-📍 Singer Hall of Residence, CV15NR, Coventry  
-📞 +44 7788760133  
-✉️ [srihaasgorantla@gmail.com](mailto:srihaasgorantla@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/srihaas)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Srihaas007)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihaas)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srihaas007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://srihaas007.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srihaasgorantla@gmail.com)
 
----
+📍 Coventry, UK | 📞 +44 7788760133
 
-## Professional Summary
-
-Experienced Full Stack Developer with over 2 years of experience in web and mobile app development. Proficient in PHP, Laravel, and React, with a strong background in machine learning and cybersecurity. Seeking new opportunities to leverage my skills in a dynamic and innovative environment.
-
----
-
-## Technical and Professional Skills
-
-- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
-- **Frameworks**: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-- **Tools**: ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase) ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobexd) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-- **Operating Systems**: ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-- **Languages**: Fluent in English, Hindi, Telugu; basic proficiency in Italian and Japanese
+</div>
 
 ---
 
-## Education
+## 🚀 Professional Summary
 
-### Computer Science BSc, Coventry University (Coventry)
-**SEP 2020 – APR 2024**  
-Modules: C++ Programming, Web Applications via FLASK, Database Management, Software Design, Big Data Programming Project, Machine Learning, .NET, Mobile Application Development
-
-### A Levels, Sri Gayatri College (Hyderabad)
-**JUN 2016 – MAY 2018**  
-Subjects: Maths (B), Physics (C), Chemistry (C), English (E)  
-Cumulative Mark: 77.8%
+Experienced **Full Stack Developer** with over 2 years in web and mobile app development. Currently working at **Absolute-Interpreting and Translating Ltd.** (Jun 2024 - Present), specializing in PHP, Laravel, and REST API development. Strong background in machine learning, AI agents, cybersecurity, and full-stack development. Passionate about building scalable applications and exploring cutting-edge technologies.
 
 ---
 
-## Experience
+## 📊 GitHub Statistics & Activity
 
-### Full Stack Developer, Absolute-Interpreting and Translating Ltd.
-**JUN 2024 - Present**
-- Engaged in full stack development using PHP and Laravel for web development and maintenance.
-- Developed REST APIs to facilitate seamless data exchange and integration with mobile applications.
-- Contributed to the development and maintenance of services, enhancing the overall functionality and reliability of web and mobile applications.
+<div align="center">
 
-### Full Stack Developer Intern, Progressive Technologies (PRO TECH)
-**DEC 2022 – SEP 2023**
-- Developed a Python-based Android app for real-time data monitoring, supporting over 1,000 users and enabling a 25% reduction in data retrieval time.
-- Led a team of 5 in requirement analysis and UI/UX design, improving team efficiency by 30%.
-- Implemented real-time MSSQL communication, enhancing data processing speed by 20%.
-- Conducted testing and code reviews, reducing bug count by 40% and improving code quality.
-- Delivered stakeholder presentations that influenced project direction, increasing stakeholder satisfaction by 35%.
+### 📈 Contribution Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srihaas007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-### Freelance Web Developer, Nova Protection
-**2024**
-- Developed a website using WordPress, designed business cards, and pamphlets for Nova Protection.  
-  [Website: Nova Protection](https://www.novaprotection.co.uk/)
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srihaas007&theme=tokyonight&hide_border=true)
 
-### Freelance Web Developer, Greenplanet.inc
-**2023**
-- Developed a website using Wix and manual HTML scripting for Greenplanet.inc.  
-  [Website: Greenplanet.inc](https://www.greenplanetgroup.in/)
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srihaas007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+### 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srihaas007&theme=tokyo-night&hide_border=true&area=true)
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Srihaas007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
 
 ---
 
-## Projects
+## 💼 2024 Highlights
 
-## ![Sign Language Icon](https://img.icons8.com/?size=100&id=EYPGefvaMGEC&format=png&color=000000) 
-## [Real-Time Sign Language Translation Dissertation Project](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
-Conducted research on real-time sign language translation, utilizing transfer learning to train a model for ISL (Indian Sign Language) using BSL (British Sign Language) as a base. Obtained datasets and model credentials from Oxford and BBC, aiming for a 90% accuracy rate. Explored real-time application and future integration with wearable technology.
-
----
-
-## ![Australian Rain Prediction Icon](https://img.icons8.com/color/48/000000/rain.png) 
-## [Australian Rain Prediction ML Project](https://github.com/Srihaas007/Australia-Rain-Prediction)
-Utilized machine learning techniques to improve prediction accuracy from 72% to 93% using hyperparameter tuning.
+- 🎯 **Active Projects in 2024**: 7+ major projects including Portfolio, AI Agents, and Security Tools
+- 💡 **New Technologies**: Explored AI/ML agents, advanced Python automation, and modern web frameworks
+- 🔐 **Security Focus**: Developed AppLocker with PIN and 2FA authentication
+- 🤖 **AI Innovation**: Built Local-bot and Workflow Agentic systems
+- 🌐 **Web Development**: Created professional portfolio site with modern JavaScript
+- 🛠️ **Tools & Utilities**: Developed BizCrawler for business data collection and File Manager Pro for file operations
 
 ---
 
-## ![Cybersecurity Icon](https://img.icons8.com/dusk/64/000000/security.png) 
-## [Cybersecurity Project: Enhancing Security of Website](https://github.com/Srihaas007/Web_Security)
-Comprehensive cybersecurity initiative aimed at enhancing the security posture of a website. Implemented various security measures and best practices to mitigate risks, safeguard sensitive data, and protect against cyber threats.
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Design & Development
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Languages**: Fluent in English, Hindi, Telugu | Basic proficiency in Italian and Japanese
+
+</div>
 
 ---
 
-## ![MAUI Task Management Icon](https://img.icons8.com/color/48/000000/task.png) 
-## [MAUI Task Management App](https://github.com/Srihaas007/Task_Manager_geo)
-Developed a task management application using .NET MAUI and SQL Lite3, incorporating geolocation-based notifications for efficient task prioritization.
+## 🎓 Education
+
+### 🎯 Computer Science BSc | Coventry University, UK
+**Sep 2020 – Apr 2024**
+
+**Key Modules**: 
+- C++ Programming & Object-Oriented Design
+- Web Applications Development (Flask, PHP, Laravel)
+- Database Management & SQL
+- Software Design Patterns
+- Big Data Programming & Analytics
+- Machine Learning & AI
+- .NET Framework & Mobile App Development
+- Cybersecurity & Web Security
+
+### 📚 A Levels | Sri Gayatri College, Hyderabad, India
+**Jun 2016 – May 2018**
+
+**Subjects**: Mathematics (B), Physics (C), Chemistry (C), English (E)  
+**Cumulative Mark**: 77.8%
 
 ---
 
-## ![Voice-Over Chatbot Icon](https://img.icons8.com/color/48/000000/bot.png) 
-## [Voice-Over Chatbot](https://github.com/Srihaas007/ChatBot)
-Created a chatbot with voice-over capability, increasing user engagement by 20% and reducing response time by 25%.
+## 💼 Professional Experience
+
+### 🔷 Full Stack Developer | Absolute-Interpreting and Translating Ltd.
+**Jun 2024 - Present** | Coventry, UK
+
+- 🚀 Developing and maintaining full-stack web applications using **PHP** and **Laravel**
+- 🔗 Building robust **REST APIs** for seamless mobile-web integration
+- 📱 Supporting mobile application development with backend services
+- 🎯 Enhancing application functionality, reliability, and user experience
+- 🔧 Implementing best practices for code quality and security
+
+### 🔶 Full Stack Developer Intern | Progressive Technologies (PRO TECH)
+**Dec 2022 – Sep 2023** | Hyderabad, India
+
+- 📊 Developed a **Python-based Android app** for real-time data monitoring serving **1,000+ users**
+- ⚡ Achieved **25% reduction** in data retrieval time through optimization
+- 👥 Led a team of **5 developers** in requirement analysis and UI/UX design
+- 📈 Improved team efficiency by **30%** through agile methodologies
+- 🔄 Implemented real-time **MSSQL communication**, enhancing data processing speed by **20%**
+- 🐛 Conducted comprehensive testing and code reviews, reducing bug count by **40%**
+- 🎤 Delivered stakeholder presentations, increasing satisfaction by **35%**
+
+### 🌐 Freelance Web Developer | Nova Protection
+**2024** | UK
+
+- 🏗️ Developed professional website using **WordPress**
+- 🎨 Designed business cards and marketing materials
+- 🌍 [Live Website](https://www.novaprotection.co.uk/)
+
+### 🌱 Freelance Web Developer | Greenplanet.inc
+**2023** | India
+
+- 💻 Built custom website using **Wix** and manual **HTML/CSS**
+- 🎯 Delivered responsive and user-friendly interface
+- 🔗 [Live Website](https://www.greenplanetgroup.in/)
 
 ---
 
-## ![Book Selling Icon](https://img.icons8.com/color/48/000000/book.png) 
-## [Book-Selling Web Application](https://github.com/Srihaas007/BookShop)
-Designed and implemented a web application for selling books, enhancing security measures by 30% and improving user satisfaction by 20%.
+## 🚀 Featured Projects
+
+### 🌟 Active Projects (2024)
+
+#### 🎨 [Portfolio Website](https://github.com/Srihaas007/Srihaas007.github.io)
+**Oct 2024 - Present** | JavaScript, HTML, CSS
+
+- 🌐 Professional portfolio website showcasing projects and skills
+- ⚡ Modern, responsive design with interactive elements
+- 🎯 Live deployment on GitHub Pages
+- 🔗 [View Live](https://srihaas007.github.io)
+
+#### 🤖 [Local-bot](https://github.com/Srihaas007/Local-bot)
+**Nov 2024** | Python, AI/ML
+
+- 🧠 AI-powered local bot for automation tasks
+- 🔧 Built with Python for efficient local processing
+- 💡 Demonstrates expertise in AI agent development
+
+#### 🔄 [Workflow Agentic System](https://github.com/Srihaas007/Workflow_Agentic)
+**Sep - Oct 2024** | Python, Automation
+
+- 🎯 Intelligent workflow automation system
+- 🔗 Agentic approach to task management
+- 📊 Streamlines complex workflows
+
+#### 🔍 [BizCrawler](https://github.com/Srihaas007/BizCrawler)
+**Jul 2024 - Dec 2024** | Python, Web Scraping
+
+- 🌐 Business data collection tool by sector, location, and radius
+- 📊 API integration and web scraping capabilities
+- 🧹 Data cleaning, deduplication, and CSV export
+- 💼 Ideal for lead generation and market research
+
+#### 📁 [File Manager Pro](https://github.com/Srihaas007/file-manager-pro)
+**Dec 2024** | Python, GUI (Tkinter)
+
+- 🗂️ Comprehensive file management application
+- 🔍 Duplicate file finder and organizer
+- 🖼️ Image processing capabilities
+- 🔐 File encryption and metadata handling
+
+#### 🎲 [DiceySips (Tipsy Dice)](https://github.com/Srihaas007/DiceySips)
+**Dec 2024** | JavaScript, HTML, CSS
+
+- 🎉 Fun party game web application
+- 🎲 Interactive dice-rolling mechanics
+- 🥂 Perfect for social gatherings
+- 📱 Responsive design with GitHub Pages deployment
+
+#### 🔐 [AppLocker](https://github.com/Srihaas007/Applocker)
+**Jul 2024** | C#, Security, TeX
+
+- 🔒 Secure Windows application locker
+- 📱 PIN and 2FA authentication
+- 🛡️ Enhanced application security
+- 📄 MIT Licensed
 
 ---
 
-## ![Restaurant Icon](https://img.icons8.com/dusk/64/000000/restaurant.png)
-## [Restaurant Web App](https://github.com/Srihaas007/RestaurantWebApp)
-Created a comprehensive restaurant web application with functionalities for managing menus, online orders, and reservations. Employed HTML, CSS, JavaScript, and PHP for the development, ensuring a seamless user experience.
+### 🎓 Academic & Research Projects
+
+#### 🤟 [Real-Time Sign Language Translation](https://github.com/Srihaas007/BSL-ISL-Transfer-learning)
+**Dissertation Project** | Python, Machine Learning, Transfer Learning
+
+- 🔬 Research on real-time sign language translation
+- 🎯 Transfer learning from BSL (British Sign Language) to ISL (Indian Sign Language)
+- 📊 Dataset from Oxford and BBC
+- 🎯 Target accuracy: **90%+**
+- 🔮 Future integration with wearable technology
+
+#### 🌧️ [Australian Rain Prediction](https://github.com/Srihaas007/Australia-Rain-Prediction)
+**Machine Learning Project** | Python, Jupyter Notebook, ML
+
+- 📈 Improved prediction accuracy from **72% to 93%**
+- 🔧 Hyperparameter tuning and optimization
+- 📊 Data analysis and visualization
+- 🎯 Real-world weather prediction application
+
+#### 🔐 [Cybersecurity: Web Security Enhancement](https://github.com/Srihaas007/Web_Security)
+**Security Project** | Python, Flask, Security
+
+- 🛡️ Comprehensive cybersecurity initiative
+- 🔒 Implementation of security best practices
+- 🔍 Vulnerability assessment and mitigation
+- 📊 Protection against common web threats
+
+#### 📱 [MAUI Task Management App](https://github.com/Srihaas007/Task_Manager_geo)
+**.NET MAUI Project** | C#, .NET MAUI, SQLite
+
+- 📍 Geolocation-based task notifications
+- 📊 SQLite database integration
+- 🎯 Efficient task prioritization
+- 📱 Cross-platform mobile application
 
 ---
 
-## ![Bill Splitting Icon](https://img.icons8.com/color/48/000000/money-transfer.png) 
-## [Bill-Splitting Android Application](https://github.com/Srihaas007/SharePay)
-Developed an Android application for bill-splitting, benefiting over 500 users and improving transaction accuracy by 15%.
+### 💻 Additional Projects
+
+#### 🗣️ [Voice-Over Chatbot](https://github.com/Srihaas007/ChatBot)
+**AI/NLP Project** | Python, NLP
+
+- 🎤 Voice-enabled chatbot interface
+- 📈 Increased user engagement by **20%**
+- ⚡ Reduced response time by **25%**
+
+#### 📚 [Book-Selling Web Application](https://github.com/Srihaas007/BookShop)
+**E-commerce Project** | HTML, CSS, PHP
+
+- 🛒 Full-featured online bookstore
+- 🔐 Enhanced security measures by **30%**
+- 😊 Improved user satisfaction by **20%**
+
+#### 🍽️ [Restaurant Web App](https://github.com/Srihaas007/RestaurantWebApp)
+**Web Development** | HTML, CSS, JavaScript, PHP
+
+- 🍔 Menu management system
+- 🛒 Online ordering functionality
+- 📅 Reservation system
+
+#### 💰 [SharePay - Bill Splitting App](https://github.com/Srihaas007/SharePay)
+**Android Application** | Java, Firebase, Adobe XD
+
+- 💳 Bill-splitting functionality
+- 👥 Benefits **500+ users**
+- 📈 Improved transaction accuracy by **15%**
+- 🔐 Firebase authentication
 
 ---
 
+## 🏆 Interests and Achievements
 
-## Interests and Achievements
+<div align="center">
 
----
+### 🎯 Personal Accomplishments
 
-## ![Rubik's Cube Icon](https://img.icons8.com/?size=100&id=WNaJOLOosfav&format=png&color=000000) 
-**Puzzle Solving Aficionado**
-Mastered solving Rubik's cubes, achieving times under 2 minutes.
+| Achievement | Description |
+|------------|-------------|
+| 🧩 **Puzzle Solving Master** | Solved Rubik's cubes in under 2 minutes consistently |
+| 🧪 **Royal Australian Chemistry Quiz** | Achieved distinction, top 10% of participants |
+| 🎵 **Electronic Music Producer** | Created music with 1,000+ online plays |
+| 👨‍🍳 **Culinary Explorer** | Experimented with 100+ diverse recipes from global cuisines |
 
----
-
-## ![Chemistry Icon](https://img.icons8.com/?size=100&id=DLnC8WsKZpFS&format=png&color=000000)
-**Royal Australian Chemistry Quiz**
-Achieved distinction, placing in the top 10% of participants.
-
----
-
-
-## ![Music Icon](https://img.icons8.com/color/48/000000/music.png) 
-**Electronic Music Creation**
-Produced music that garnered over 1,000 online plays.
+</div>
 
 ---
 
-## ![Cooking Icon](https://img.icons8.com/color/48/000000/chef-hat.png) 
-**Culinary Hobbyist**
-Passionately experimented with over 100 diverse recipes, exploring a variety of global cuisines.
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihaas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://srihaas007.github.io)
+[![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srihaasgorantla@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srihaas007)
+
+</div>
 
 ---
+
+<div align="center">
+
+### 💡 "Building the future, one commit at a time"
+
+![Profile Views](https://komarev.com/ghpvc/?username=Srihaas007&color=blueviolet&style=for-the-badge)
+
+**⭐ Open to opportunities in Full Stack Development, Machine Learning, and AI**
+
+</div>
 
 
 
