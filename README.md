@@ -187,7 +187,7 @@ Experienced **Full Stack Developer** with over 2 years in web and mobile app dev
 - 📊 Streamlines complex workflows
 
 #### 🔍 [BizCrawler](https://github.com/Srihaas007/BizCrawler)
-**Dec 2024 - Jul 2024** | Python, Web Scraping
+**Jul 2024 - Dec 2024** | Python, Web Scraping
 
 - 🌐 Business data collection tool by sector, location, and radius
 - 📊 API integration and web scraping capabilities
@@ -201,7 +201,6 @@ Experienced **Full Stack Developer** with over 2 years in web and mobile app dev
 - 🔍 Duplicate file finder and organizer
 - 🖼️ Image processing capabilities
 - 🔐 File encryption and metadata handling
-- ⭐ **1 Star** on GitHub
 
 #### 🎲 [DiceySips (Tipsy Dice)](https://github.com/Srihaas007/DiceySips)
 **Dec 2024** | JavaScript, HTML, CSS
@@ -280,7 +279,6 @@ Experienced **Full Stack Developer** with over 2 years in web and mobile app dev
 - 🍔 Menu management system
 - 🛒 Online ordering functionality
 - 📅 Reservation system
-- ⭐ **1 Star** on GitHub
 
 #### 💰 [SharePay - Bill Splitting App](https://github.com/Srihaas007/SharePay)
 **Android Application** | Java, Firebase, Adobe XD
