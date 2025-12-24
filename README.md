@@ -23,7 +23,9 @@ Experienced **Full Stack Developer** with over 2 years in web and mobile app dev
 ## GitHub Statistics and Activity
 
 <div align="center">
+  
 ### Contribution Activity Graph
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srihaas007&hide_border=true)
 
 </div>
